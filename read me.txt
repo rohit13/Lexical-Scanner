@@ -1,0 +1,28 @@
+#Rohit Sharma
+#SUID 242093353
+#Readme.txt --- project 1 run instructions.
+-------------------
+
+1. input files are kept inside Inputs folder.
+For req 4 -- Req4.txt
+For req 7 and 8  -- Req7_8.txt
+For special char req - ReqSpecialChars.txt
+
+make any changes for input in the above files mentioned
+
+2. Outputs are generated inside project folder itself i.e. at the home directory.
+
+For req 4 -- Tokens_Req4_Output.txt
+For req 7 and 8  -- Semi_Req7_8_Output.txt
+For single special char req -- SingleSpecialCharReq_Output
+For single special char req -- DoubleSpecialCharReq_Output
+
+I have displayed the requirements on the console and stored in file as well by default. To change see instruction 3.
+
+3. In run.bat file
+
+First argument is for the store flag : Output will be stored to a text file or not : Values possible n or y
+
+Second argument is for the comment flag : Comments will be displayed or not : Values possible n or y
+
+4. setSingleSpecialChar & setDoubleSpecialChar requirements are demonstrated and output files are generated in project folder.

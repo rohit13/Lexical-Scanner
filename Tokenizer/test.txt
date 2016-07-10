@@ -1,0 +1,24 @@
+!@#+=
+"\n This is an \'example\' for you ";
+#include <iostream> 
+#include <string>
+/*asdfsdf*/
+#include "stdio.h"
+"abc";
+class abcadsfs
+{
+	private:
+		char c='d';
+	public:
+        Toker("abc");
+};
+int main()
+{
+	for(int i=0;i<20;i++)
+	{
+		for(int j=0;j<20;i++)
+		{
+			return true;
+		}
+	}
+};
